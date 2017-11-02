@@ -2,6 +2,9 @@ cf-api-url: https://api.sys.longs.pal.pivotal.io
 cf-username: georaj_kakkassery@syntelinc.com
 cf-password: 22f4561e
 cf-org: gkakkassery-pal
+aws-access-key-id: <YOUR_ACCESS_KEY>
+aws-secret-access-key: <YOUR_SECRET_KEY>
+aws-bucket: <YOUR_AWS_S3_BUCKET>
 github-repository: git@github.com:georajk/pal-tracker.git
 github-private-key: |
   -----BEGIN RSA PRIVATE KEY-----
